@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcInjection", "ProcInjection.csproj", "{46183CEA-371B-47E1-8551-DB928AB5F7BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcInjection", "ProcInjection.csproj", "{E8382742-BF99-4749-A419-F03EB5D6546F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CD00DEA6-7A1E-4699-97EB-9B0014D262A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +13,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{46183CEA-371B-47E1-8551-DB928AB5F7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{46183CEA-371B-47E1-8551-DB928AB5F7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{46183CEA-371B-47E1-8551-DB928AB5F7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{46183CEA-371B-47E1-8551-DB928AB5F7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8382742-BF99-4749-A419-F03EB5D6546F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8382742-BF99-4749-A419-F03EB5D6546F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8382742-BF99-4749-A419-F03EB5D6546F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8382742-BF99-4749-A419-F03EB5D6546F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {725EABB7-9645-45B2-8045-E40DF2641891}
+		SolutionGuid = {89EC8D95-97D3-4292-B6D9-881107B66FB1}
 	EndGlobalSection
 EndGlobal
